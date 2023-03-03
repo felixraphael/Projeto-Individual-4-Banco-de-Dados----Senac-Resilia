@@ -23,5 +23,6 @@ RELACIONAMENTO DO TIPO UM PARA VÁRIOS.
 RELACIONAMENTO DO TIPO VÁRIOS PARA VÁRIOS.
 
 
----------------  <h1>MODELO LÓGICO </h1> -----------------
+<h1>MODELO LÓGICO </h1>
+
 

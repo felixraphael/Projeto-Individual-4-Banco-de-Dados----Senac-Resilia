@@ -25,4 +25,6 @@ RELACIONAMENTO DO TIPO VÁRIOS PARA VÁRIOS.
 
 <h1>MODELO LÓGICO </h1>
 
+<img src="https://raw.githubusercontent.com/felixraphael/Projeto-Individual-4-Banco-de-Dados----Senac-Resilia/main/sql/img/diagrama.png"/>
+
 
